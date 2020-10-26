@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs/MakeConst/v16
+/MakeConst/bin/Debug/netstandard2.0
+/MakeConst/obj
+/MakeConst.CodeFixes/bin/Debug/netstandard2.0
+/MakeConst.CodeFixes/obj
+/MakeConst.Package/bin/Debug/netstandard2.0
+/MakeConst.Package/obj
+/MakeConst.Test/bin/Debug/netcoreapp2.0
+/MakeConst.Test/obj
+/MakeConst.Vsix/bin/Debug/net472
+/MakeConst.Vsix/obj
